@@ -1,0 +1,13 @@
+D:\freelance\yviewer\yviewer\bin\Debug\yviewer.exe.config
+D:\freelance\yviewer\yviewer\obj\Debug\yviewer.csprojResolveAssemblyReference.cache
+D:\freelance\yviewer\yviewer\obj\Debug\yviewer.Properties.Resources.resources
+D:\freelance\yviewer\yviewer\obj\Debug\yviewer.viewer.resources
+D:\freelance\yviewer\yviewer\obj\Debug\yviewer.csproj.GenerateResource.Cache
+D:\freelance\yviewer\yviewer\bin\Debug\yviewer.exe
+D:\freelance\yviewer\yviewer\bin\Debug\yviewer.pdb
+D:\freelance\yviewer\yviewer\obj\Debug\yviewer.exe
+D:\freelance\yviewer\yviewer\obj\Debug\yviewer.pdb
+D:\freelance\yviewer\yviewer\bin\Debug\yviewer.exe.manifest
+D:\freelance\yviewer\yviewer\bin\Debug\yviewer.application
+D:\freelance\yviewer\yviewer\obj\Debug\yviewer.exe.manifest
+D:\freelance\yviewer\yviewer\obj\Debug\yviewer.application
